@@ -1,0 +1,8 @@
+Dear [Title][LastName],
+
+	We are mailing you about your [Relationship], [Name], and his attendence in school.
+It has been [time] weeks since your [Relationsip] last showed up to class. We just wanteded
+to notify you about your [Relationhip].
+
+Sincerely, 
+Harker 
